@@ -23,7 +23,7 @@ element we want to add the listener to, and passing it two arguments:
 2. a _callback function_ to "handle" the event
 
 Open up `index.html` in the browser. When you click in the `<input>` area,
-nothing happens. Let's set up some _event handling_. Specifically, let's add an
+nothing happens. Let's set up some _event handling_. Specifically, let's add angit
 event listener for the `click` event on the `input#button` element in
 `index.html`.
 

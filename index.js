@@ -3,6 +3,6 @@ function clickAlert() {
 }
 
 function addingEventListener() {
-    const input = document.getElementById("input");
+    const input = document.getElementById("button");
     input.addEventListener("click", clickAlert);
 }
